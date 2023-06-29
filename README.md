@@ -1,2 +1,2 @@
 # project1
-Proecto parami portafolio
+Proyecto para mi portafolio
